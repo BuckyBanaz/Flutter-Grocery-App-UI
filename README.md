@@ -5,7 +5,7 @@ Flutter Grocery App UI
 -------------
   
 #### Flutter Version Used : 3.3.7
-#### Design Credit : By  [Afsar Hossen](https://www.linkedin.com/in/afsar-shuvo/)  
+#### Design Credit : By  [Parikshit Verma](https://www.linkedin.com/in/parikshit-verma/)  
 #### Design Files on Figma : [Online Groceries App UI](https://www.figma.com/community/file/882645007956337261)  
   
 -------------  
